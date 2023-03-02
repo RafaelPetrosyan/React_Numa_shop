@@ -1,0 +1,16 @@
+.footer{
+    position: absolute;
+    display: flex;
+    gap: 10px;
+    bottom: 0;
+    padding: 5px;
+    height: 30px;
+    width: 100%;
+    justify-content: center;
+    background-color: #3b3e6e;
+}
+.footer_logos{
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+}

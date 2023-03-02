@@ -1,0 +1,23 @@
+[
+    {
+      "id": 1,
+      "title": "Shoes",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+      "price": "100.00",
+      "imgSrc": "/assets/shoes.png"
+    },
+    {
+      "id": 2,
+      "title": "Watch",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+      "price": "200.00",
+      "imgSrc": "/assets/watch.png"
+    },
+    {
+      "id": 3,
+      "title": "Earphone",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+      "price": "199.99",
+      "imgSrc": "/assets/earphone.png"
+    }
+  ]

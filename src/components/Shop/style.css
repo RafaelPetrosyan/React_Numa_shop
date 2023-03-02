@@ -1,0 +1,24 @@
+.shop{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.shop-products{
+    margin-top: 30px;
+    display: flex;
+    gap: 20px;
+}
+.title{
+    display: flex;
+    justify-content: center;
+    
+}
+.
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  margin: 50px 0;
+}
